@@ -5,6 +5,6 @@
 4. Go into your file explorer
 5. Copy the path of the file gift-card-simulation.js
 6. Finally use the command under this line in your windows terminal and it will lauch the script 
-# Command = 
+# Command = ✅
 node path\of\your\gift-card-simulation.js
 
